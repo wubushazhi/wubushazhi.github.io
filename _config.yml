@@ -1,11 +1,11 @@
 # Site settings
 title: Gth Blog
-SEOTitle: 武部纱织的博客 | BY Blog
+SEOTitle: 武部纱织的博客 | wbsz Blog
 header-img: img/post-bg-desk.jpg
 email: shazhiwubu@aol.com
 description: "Every failure is leading towards success."
-keyword: ""
-url: "http://wubushazhi.github.io"          # your host, for absolute URL
+keyword: "wubushazhi"
+url: "http://wubushazhi.site"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/wubushazhi/wubushazhi.github.io" # you code repository
 
@@ -60,25 +60,25 @@ kramdown:
 # disqus_username: qiubaiying
 
 # Gitalk
-#gitalk:
-#  enable: true    #是否开启Gitalk评论
-#  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-#  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-#  repo: qiubaiying.github.io    #仓库名称
-#  owner: qiubaiying    #github用户名
-#  admin: qiubaiying
-#  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+gitalk:
+  enable: true    #是否开启Gitalk评论
+  clientID: 996a46343aa3a358a5c4                            #生成的clientID
+  clientSecret: b07bdbae1e58784a159ddbf0321b68b95684fc38    #生成的clientSecret
+  repo: wubushazhi.github.io    #仓库名称
+  owner: wubushazhi    #github用户名
+  admin: wubushazhi
+  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 # 统计
 
 # Analytics settings
 # Baidu Analytics
-#ba_track_id: b50bf2b12b5338a1845e33832976fd68
+ba_track_id: 094165b6f1e13ab847303a0fc6490823
 
 # Google Analytics
-#ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-#ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_track_id: 'UA-146160316-1'            # Format: UA-xxxxxx-xx
+ga_domain: wubushazhi.site               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
