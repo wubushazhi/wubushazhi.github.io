@@ -11,20 +11,20 @@ github_repo: "https://github.com/wubushazhi/wubushazhi.github.io" # you code rep
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "人间 在人之间才是人间"
+sidebar-avatar: /img/jth.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
+bokeyuan_username: wubushazhi
+jianshu_username: af5ad4221c44
+#twitter_username:   qiubaiying
+#weibo_username:     qiubaiying
 #zhihu_username:     qiubaiying
 #github_username:    qiubaiying
 #facebook_username:  baiying.qiu.7
-#jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
-
 
 
 
